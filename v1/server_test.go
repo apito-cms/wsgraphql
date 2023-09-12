@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/eientei/wsgraphql/v1/apollows"
+	"github.com/apito-cms/wsgraphql/v1/apollows"
 	"github.com/gorilla/websocket"
 	"github.com/stretchr/testify/assert"
 	"github.com/tailor-inc/graphql"

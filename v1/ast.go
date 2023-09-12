@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/eientei/wsgraphql/v1/apollows"
+	"github.com/apito-cms/wsgraphql/v1/apollows"
 	"github.com/tailor-inc/graphql"
 	"github.com/tailor-inc/graphql/gqlerrors"
 	"github.com/tailor-inc/graphql/language/ast"

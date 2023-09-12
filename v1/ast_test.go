@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/eientei/wsgraphql/v1/apollows"
-	"github.com/eientei/wsgraphql/v1/mutable"
+	"github.com/apito-cms/wsgraphql/v1/apollows"
+	"github.com/apito-cms/wsgraphql/v1/mutable"
 	"github.com/stretchr/testify/assert"
 	"github.com/tailor-inc/graphql"
 	"github.com/tailor-inc/graphql/gqlerrors"

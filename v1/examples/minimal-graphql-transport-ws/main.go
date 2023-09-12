@@ -4,8 +4,8 @@ import (
 	"flag"
 	"net/http"
 
-	"github.com/eientei/wsgraphql/v1"
-	"github.com/eientei/wsgraphql/v1/compat/gorillaws"
+	"github.com/apito-cms/wsgraphql/v1"
+	"github.com/apito-cms/wsgraphql/v1/compat/gorillaws"
 	"github.com/gorilla/websocket"
 	"github.com/tailor-inc/graphql"
 )

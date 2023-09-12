@@ -6,7 +6,7 @@ import (
 
 	"github.com/tailor-inc/graphql"
 
-	"github.com/eientei/wsgraphql/v1/mutable"
+	"github.com/apito-cms/wsgraphql/v1/mutable"
 	"github.com/tailor-inc/graphql/language/ast"
 )
 
