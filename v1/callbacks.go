@@ -6,7 +6,7 @@ import (
 
 	"github.com/eientei/wsgraphql/v1/apollows"
 	"github.com/eientei/wsgraphql/v1/mutable"
-	"github.com/graphql-go/graphql"
+	"github.com/tailor-inc/graphql"
 )
 
 // WithCallbacks option sets callbacks handling various stages of requests

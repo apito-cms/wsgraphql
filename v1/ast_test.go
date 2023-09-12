@@ -6,9 +6,9 @@ import (
 
 	"github.com/eientei/wsgraphql/v1/apollows"
 	"github.com/eientei/wsgraphql/v1/mutable"
-	"github.com/graphql-go/graphql"
-	"github.com/graphql-go/graphql/gqlerrors"
 	"github.com/stretchr/testify/assert"
+	"github.com/tailor-inc/graphql"
+	"github.com/tailor-inc/graphql/gqlerrors"
 )
 
 func TestASTParse(t *testing.T) {

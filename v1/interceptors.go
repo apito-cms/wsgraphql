@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/eientei/wsgraphql/v1/apollows"
-	"github.com/graphql-go/graphql"
+	"github.com/tailor-inc/graphql"
 )
 
 // Interceptors allow to customize request processing

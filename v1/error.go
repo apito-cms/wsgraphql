@@ -1,8 +1,8 @@
 package wsgraphql
 
 import (
-	"github.com/graphql-go/graphql/gqlerrors"
-	"github.com/graphql-go/graphql/language/location"
+	"github.com/tailor-inc/graphql/gqlerrors"
+	"github.com/tailor-inc/graphql/language/location"
 )
 
 func wrapExtendedError(err error, loc []location.SourceLocation) error {

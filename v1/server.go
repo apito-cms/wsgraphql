@@ -6,11 +6,11 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/graphql-go/graphql/gqlerrors"
+	"github.com/tailor-inc/graphql/gqlerrors"
 
 	"github.com/eientei/wsgraphql/v1/apollows"
 	"github.com/eientei/wsgraphql/v1/mutable"
-	"github.com/graphql-go/graphql"
+	"github.com/tailor-inc/graphql"
 )
 
 var (

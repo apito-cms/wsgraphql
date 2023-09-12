@@ -4,7 +4,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/c626b5f2399b044bdebf/test_coverage)](https://codeclimate.com/github/eientei/wsgraphql)
 
 An implementation of websocket transport for
-[graphql-go](https://github.com/graphql-go/graphql).
+[graphql-go](https://github.com/tailor-inc/graphql).
 
 Currently following flavors are supported:
 
@@ -33,7 +33,7 @@ import (
 	"github.com/eientei/wsgraphql/v1"
 	"github.com/eientei/wsgraphql/v1/compat/gorillaws"
 	"github.com/gorilla/websocket"
-	"github.com/graphql-go/graphql"
+	"github.com/tailor-inc/graphql"
 )
 ```
 

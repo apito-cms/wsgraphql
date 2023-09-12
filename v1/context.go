@@ -4,10 +4,10 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/graphql-go/graphql"
+	"github.com/tailor-inc/graphql"
 
 	"github.com/eientei/wsgraphql/v1/mutable"
-	"github.com/graphql-go/graphql/language/ast"
+	"github.com/tailor-inc/graphql/language/ast"
 )
 
 type (

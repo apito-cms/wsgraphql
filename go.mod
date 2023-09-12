@@ -4,8 +4,8 @@ go 1.17
 
 require (
 	github.com/gorilla/websocket v1.5.0
-	github.com/graphql-go/graphql v0.8.1
 	github.com/stretchr/testify v1.8.4
+	github.com/tailor-inc/graphql v0.5.0
 	go.opentelemetry.io/otel v1.16.0
 	go.opentelemetry.io/otel/trace v1.16.0
 )

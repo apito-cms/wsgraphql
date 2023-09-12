@@ -10,8 +10,8 @@ import (
 
 	"github.com/eientei/wsgraphql/v1/apollows"
 	"github.com/eientei/wsgraphql/v1/mutable"
-	"github.com/graphql-go/graphql"
-	"github.com/graphql-go/graphql/gqlerrors"
+	"github.com/tailor-inc/graphql"
+	"github.com/tailor-inc/graphql/gqlerrors"
 )
 
 type websocketRequest struct {

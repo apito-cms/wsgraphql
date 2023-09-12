@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/eientei/wsgraphql/v1/mutable"
-	"github.com/graphql-go/graphql/language/ast"
 	"github.com/stretchr/testify/assert"
+	"github.com/tailor-inc/graphql/language/ast"
 )
 
 func TestRequestContext(t *testing.T) {

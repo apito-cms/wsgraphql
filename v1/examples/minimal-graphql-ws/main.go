@@ -7,7 +7,7 @@ import (
 	"github.com/eientei/wsgraphql/v1"
 	"github.com/eientei/wsgraphql/v1/compat/gorillaws"
 	"github.com/gorilla/websocket"
-	"github.com/graphql-go/graphql"
+	"github.com/tailor-inc/graphql"
 )
 
 func main() {

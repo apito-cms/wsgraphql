@@ -10,8 +10,8 @@ import (
 	"unsafe"
 
 	"github.com/eientei/wsgraphql/v1/apollows"
-	"github.com/graphql-go/graphql"
-	"github.com/graphql-go/graphql/gqlerrors"
+	"github.com/tailor-inc/graphql"
+	"github.com/tailor-inc/graphql/gqlerrors"
 )
 
 // Server implements graphql http handler with websocket support (if upgrader is provided with WithUpgrader)

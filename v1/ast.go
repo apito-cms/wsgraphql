@@ -5,11 +5,11 @@ import (
 	"fmt"
 
 	"github.com/eientei/wsgraphql/v1/apollows"
-	"github.com/graphql-go/graphql"
-	"github.com/graphql-go/graphql/gqlerrors"
-	"github.com/graphql-go/graphql/language/ast"
-	"github.com/graphql-go/graphql/language/parser"
-	"github.com/graphql-go/graphql/language/source"
+	"github.com/tailor-inc/graphql"
+	"github.com/tailor-inc/graphql/gqlerrors"
+	"github.com/tailor-inc/graphql/language/ast"
+	"github.com/tailor-inc/graphql/language/parser"
+	"github.com/tailor-inc/graphql/language/source"
 )
 
 func (server *serverImpl) handleExtensionsInits(p *graphql.Params) *graphql.Result {
